@@ -20,4 +20,4 @@ A web-based Student Management System developed using PHP and MySQL.
 
 ## Author
 
-Mrrimziya
+Zikra
